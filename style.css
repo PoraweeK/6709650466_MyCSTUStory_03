@@ -1,0 +1,305 @@
+body{
+    background-image:linear-gradient(
+        to bottom,
+        #28292a 0%,
+        #28292a 20%,
+        #18191a 20%,
+        #18191a 100%
+    ) ;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    height: 210vh;
+}
+.name{
+    color: #fff;
+    font-family:"Google Sans", arial, sans-serif;
+    font-size: 300%;
+    position: relative;
+    font-style: bold;
+
+    margin-left: 500px;
+    bottom:200px;
+
+
+}
+.info{
+    color: #fff;
+    font-family:"Google Sans", arial, sans-serif;
+    position: relative;
+    font-size: medium;
+    font-style: oblique;
+
+    margin-left: 900px;
+    bottom:240px;
+
+}
+
+
+h2{
+    color: #fff;
+    font-family:"Google Sans", arial, sans-serif;
+    font-size: 300%;
+    position: relative;
+    font-style: bold;
+    text-align: center;
+
+    bottom:200px;
+
+
+}
+
+p{
+    color: #fff;
+    font-family:"Google Sans", arial, sans-serif;
+    font-size: 150%;
+    position: relative;
+    font-style: thin;
+
+    padding-left: 8%;
+    bottom: 360px;
+}
+
+h3{
+    color: #fff;
+    font-family:"Google Sans", arial, sans-serif;
+    font-size: 250%;
+    position: relative;
+
+    padding-left: 8%;
+    bottom:350px;
+}
+
+video{
+    
+    width: 30% ;
+    margin-left: 1130px;
+    position: relative;
+    top: 29%;
+
+}
+
+.secondparagarph{
+    font-family:"Google Sans", arial, sans-serif;
+    font-size: 150%;
+    position: relative;
+    text-align: right;
+
+    padding-right: 10%;
+    bottom:600px;
+    left:0px;
+}
+
+.secondtopic{
+    
+    color: #fff;
+    font-family:"Google Sans", arial, sans-serif;
+    font-size: 250%;
+    position: relative;
+
+    text-align: right;
+    padding-right: 10%;
+    left: 0px;
+    bottom:600px;
+    
+}
+.pic{
+    position: relative;
+    width: 300px;
+    padding-left: 8%;
+    margin-left: 20%;
+    bottom:22%
+    
+}
+.band{
+    position: relative;
+    width: 500px;
+    padding-left: 8%;
+    bottom:300px;
+    
+
+}
+h4{
+    color: #fff;
+    font-family:"Google Sans", arial, sans-serif;
+    font-size: 80%;
+    position: relative;
+    font-style:oblique;
+
+    padding-left: 8%;
+    bottom:540px;
+}
+.thirdparagarph{
+    font-family:"Google Sans", arial, sans-serif;
+    font-size: 150%;
+    position: relative;
+    text-align: center;
+
+    padding-right: 10%;
+    bottom:500px;
+    left:0px;
+}
+
+.thirdtopic{
+    
+    color: #fff;
+    font-family:"Google Sans", arial, sans-serif;
+    font-size: 250%;
+    position: relative;
+
+    text-align: center;
+    padding-right: 10%;
+    left: 0px;
+    bottom:490px;
+}
+
+.cstu{
+    position: relative;
+    width: 30%;
+    padding-left: 8%;
+    bottom:490px;
+    left: 26%;
+}
+.mjfirsttoppic{
+    color: #fff;
+    font-family:"Google Sans", arial, sans-serif;
+    position: relative;
+    font-size: 300%;
+    font-style: oblique;
+    text-align: center;
+    top:7%
+}
+.mjfirsttoppic2{
+    color: #fff;
+    font-family:"Google Sans", arial, sans-serif;
+    position: relative;
+    font-size: 100%;
+    font-style: oblique;
+    text-align: center;
+    top:5%
+}
+.Freshman{
+    color: #fff;
+    font-family:"Google Sans", arial, sans-serif;
+    font-size:300%;
+    position: relative;
+    top: 13%;
+}
+.mjparagraph{
+    color: #fff;
+    font-family:"Google Sans", arial, sans-serif;
+    font-size: 150%;
+    position: relative;
+    top: 11%;
+    text-align: center;
+    right: 3%;
+}
+.Sophomore{
+    color: #fff;
+    font-family:"Google Sans", arial, sans-serif;
+    font-size:300%;
+    position: relative;
+    top: 9%;
+}
+.mjsecparagraph{
+    color: #fff;
+    font-family:"Google Sans", arial, sans-serif;
+    font-size: 150%;
+    position: relative;
+    top: 7%;
+    text-align: center;
+    right: 3%;
+}
+.Junior{
+    color: #fff;
+    font-family:"Google Sans", arial, sans-serif;
+    font-size:300%;
+    position: relative;
+    top: 5%;
+    text-align: center;
+    
+}
+.mjthirdparagraph{
+    color: #fff;
+    font-family:"Google Sans", arial, sans-serif;
+    font-size: 150%;
+    position: relative;
+    top: 3%;
+    text-align: center;
+    right: 3%;
+}
+.Senior{
+    color: #fff;
+    font-family:"Google Sans", arial, sans-serif;
+    font-size:300%;
+    position: relative;
+    top: 2%;
+    text-align: center;
+}
+.mjforthparagraph{
+    color: #fff;
+    font-family:"Google Sans", arial, sans-serif;
+    font-size: 150%;
+    position: relative;
+    bottom: 0%;
+    text-align: center;
+    right: 3%;
+}
+.mjpic{
+    position: relative;
+    width: 50%;
+    padding-left: 8%;
+    bottom: 0px;
+    left: 18%;
+}
+.mftopic{
+    color: #fff;
+    font-family:"Google Sans", arial, sans-serif;
+    position: relative;
+    font-size: 350%;
+    font-style: oblique;
+    text-align: center;
+    top:7%
+}
+.mfp{
+    color: #fff;
+    font-family:"Google Sans", arial, sans-serif;
+    position: relative;
+    font-size: 130%;
+    font-style: oblique;
+    text-align: center;
+    top:5%
+}
+.mfp2{
+    color: #fff;
+    font-family:"Google Sans", arial, sans-serif;
+    font-size: 250%;
+    position: relative;
+    top: 11%;
+    text-align: center;
+    right: 3%;
+}
+.mfpic{
+    position: relative;
+    width: 30%;
+    padding-left: 8%;
+    top: 13%;
+    left: 0%;
+}
+.mfpic2{
+    position: relative;
+    width: 30%;
+    padding-left: 8%;
+    bottom: 5.6%;
+    left: 30%;
+}
+.mfpic3{
+    position: relative;
+    width: 26.5%;
+    padding-left: 8%;
+    bottom: 24.2%;
+    left: 60%;
+}
+
+
+
